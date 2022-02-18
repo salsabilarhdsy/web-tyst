@@ -1,0 +1,59 @@
+
+        .navbar {
+            font-size: 20px;
+        }
+        .section {
+            background: #E19D9F; 
+            height: 2px; 
+            margin: 0px;
+        }
+        .btn-custom, .btn-icon {
+            color: #111111;
+            background-color: #FFFBFB;
+            border: 0px;
+        }
+        .btn-custom:hover, .btn-custom:focus, .btn-custom:active, .btn-custom.active {
+            color: #FFFFFF;
+            background-color: #D47677;
+            border-radius: 7px;
+            padding: 2px 0px 2px 0px;
+            margin: 7px 0px 7px 0px;
+        }
+        .btn-icon:hover, .btn-icon:focus, .btn-icon:active, .btn-icon.active {
+            color: #D47677;
+            border: 0px;
+            /*border-radius: 7px;
+            padding: 1px 0px 1px 0px;
+            margin: 7px 0px 7px 0px;*/
+        }
+        .title {
+            margin: 30px 0px 5px 0px;
+            /*background-color: skyblue;*/
+        }
+        .time {
+            margin: 5px 0px 10px 0px;
+            /*background-color: orange;*/
+            font-size: 14px;
+        }
+        .image {
+            margin: 10px 150px 0px 130px;
+            /*background-color: lime;
+            width: 500px;*/
+            max-height: 300px;
+        }
+        .article {
+            margin: 20px 50px 20px 30px;
+            background-color: pink;/**/
+            text-align: justify;
+            font-size: 18px;
+            text-indent: 3%;
+        }
+        .content {
+            max-width: 800px;
+            margin: auto;
+        }
+        p {
+            font-size: 20px;
+            text-align: justify;
+            text-indent: 3%;
+        }
